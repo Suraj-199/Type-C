@@ -31,7 +31,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   justify-self: center;
   font-size: 60px;
   font-weight: 1000;
-  color: #FFC42E;
+  color: #2f0909;
   justify-content: center;
   font-family: 'Sacramento', cursive;
 }
@@ -62,7 +62,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   
   font-size: 25px;
   font-weight: 500;
-  color:#FFC42E;
+  color:#2f0909;
 }
 .inps input[type="email"] {
   background: rgb(251 251 251);
